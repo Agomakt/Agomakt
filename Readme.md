@@ -22,4 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agomakt&layout=compact" alt="agomakt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agomakt&show_icons=true" alt="agomakt" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agomakt)]
+
