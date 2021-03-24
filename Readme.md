@@ -13,9 +13,3 @@
 <a href="https://medium.com/@mail.agolovkov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mail.agolovkov" height="30" width="40" /></a>
 </p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agomakt&show_icons=true" alt="agomakt" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agomakt&layout=compact)](https://github.com/agomakt/github-readme-stats)
-
